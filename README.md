@@ -146,7 +146,7 @@ The system provides explainable recommendations through similarity scores, skill
 
 
 
-\- RegEx
+\- WordCloud
 
 
 
